@@ -17,12 +17,12 @@ We have limited slot for 100 Teams only, so Preference will be given to THM Memb
 
 Become a Member Today: [https://forms.gle/pFRm7m75weHZT8DS7](https://forms.gle/pFRm7m75weHZT8DS7)
 
-Date: 27th -28th September 2020
-Time: 10.00 AM — 12.00 AM
-Website: [www.HackersHour.org](www.HackersHour.org)
-CTF Online : [www.CTF.HackersHour.org](www.CTF.HackersHour.org)
-Contact us: +91 8980808222 +91 8866827872
-mail us on thehackersmeetup@gmail.com
+Date: 27th -28th September 2020 <br>
+Time: 10.00 AM — 12.00 AM <br>
+Website: [www.HackersHour.org](www.HackersHour.org) <br>
+CTF Online : [www.CTF.HackersHour.org](www.CTF.HackersHour.org) <br>
+Contact us: +91 8980808222 +91 8866827872 <br>
+mail us on thehackersmeetup@gmail.com <br>
 
 <!-- [![Build Status](https://travis-ci.org/Vrijraj/aura.svg?branch=master)](https://travis-ci.org/Vrijraj/aura) -->
 
