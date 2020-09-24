@@ -1,0 +1,28 @@
+[
+    {
+        "name":"CCIS",
+        "link":"https://ccisecurity.org",
+        "img":"CCIS.png"
+    },
+    {
+        "name":"Logout",
+        "link":"https://logoutnow.org/",
+        "img":"Logout.png"
+    },
+    {
+        "name":"OSW",
+        "link":"https://opensourceweekend.org",
+        "img":"osw.png"
+    },
+    {
+        "name":"OSF",
+        "link":"https://opensourcefest.org",
+        "img":"OSF.png"
+    },
+    {
+        "name":"Security Shots",
+        "link":"https://securityshots.org",
+        "img":"SecurityShots.png"
+    }
+
+]

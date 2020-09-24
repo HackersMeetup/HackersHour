@@ -1,0 +1,67 @@
+{
+    "AboutSession":[
+        {
+            "LinkName":"Hackers Hour",
+            "Link":"/"
+        },
+        {
+            "LinkName":"The Hackers Meetup",
+            "Link":"https://www.thehackersmeetup.com/"
+        },
+        {
+            "LinkName":"ComExpo Cyber Security Foundation",
+            "Link":"https://comexpocybersecuirty.com/"
+        },
+       
+        {
+            "LinkName":"Centre for Cyber and Information Security",
+            "Link":"https://ccisecurity.org/"
+        }
+    ],
+    "ChapterResourcesSession":[
+        {
+            "LinkName" : "Become a Sponsor",
+            "Link" : "mailto:thehackersmeetup@gmail.com"
+        },
+        {
+            "LinkName" : "Call for Speaker",
+            "Link" : "mailto:thehackersmeetup@gmail.com"
+        },
+        {
+            "LinkName" : "Call for Volunteer",
+            "Link" : " https://forms.gle/6TgCZ8ZepyTLkMdw5"
+        },
+        {
+            "LinkName" : "Become a Member",
+            "Link" : " https://forms.gle/pFRm7m75weHZT8DS7"
+        }
+    ],
+    "DevConsole":[
+        {
+            "LinkName" : "Event Brochure",
+            "Link" : "https://drive.google.com/file/d/1xk7m_ckx7tPATnBYOvuei8WfRIYh6r5U/view?usp=sharing"
+        },
+        {
+            "LinkName" : "Event Schedule",
+            "Link" : "https://drive.google.com/file/d/1CKU58oEBnArLYGOzK2XiSYh2EPY6WPXk/view?usp=sharing"
+        },
+        {
+            "LinkName" : "Blogs",
+            "Link" : "/blog"
+        },
+        {
+            "LinkName" : "Beginner’s Guide to Capture the Flag (CTF)",
+            "Link" : "https://drive.google.com/file/d/1_91hUpd_PZr7_v5LXkiuhe-NH2KH5Os8/view?usp=sharing"
+        }
+    ],
+    "FooterEndSession":[
+        {
+            "LinkName" : "Code of Conduct",
+            "Link" : "https://drive.google.com/file/d/1rwEUBMEPS-RTMQXlf_qTxR11sXPXAuJT/view?usp=sharing"
+        },
+        {
+            "LinkName" : "Terms & Servies",
+            "Link" : ""
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "ChapterName": "Hacker Hour",
+    "ChapterShortDescription": "",
+    "ChapterLongDec": "Hackers Hour Capture the Flag (CTF) is a special kind of 12 hours, Beginner Level, Jeopardy style information security competitions which touch on many aspects of information security like cryptography, steganography, binary analysis, reverse engineering, web application security and others. Good teams generally have strong skills and experience in all these issues. For example Web Forensic, Crypto Binary or something else. Team can gain some points for every solved task. More points for more complicated tasks usually. The next task in chain can be opened only after same team solve previous task. Then the game time is over sum of points shows you a CTF winner",
+    "ChapterMeetupLink": "https://allevents.in/online/hackers-hour-ctf/80002817291964",
+    "ChapterEmail": "",
+    "website": "",
+    "GDGProgramWebsite": "https://ctf.hackershour.org/",
+    "ChapterHashTags": [],
+        "socialLinks": [
+        {
+            "name": "Facebook",
+            "link": "https://www.facebook.com/HackersMeetup/",
+            "icon": "fab fa-facebook"
+        },
+        {
+            "name": "Twitter",
+            "link": "https://twitter.com/hackers_meetup",
+            "icon": "fab fa-twitter"
+        },
+        {
+            "name": "Instagram",
+            "link": "https://instagram.com/thehackersmeetup",
+            "icon": "fab fa-instagram"
+        },
+        {
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/thehackersmeetup/",
+            "icon": "fab fa-linkedin"
+        }
+    ],
+    "wtmWebsite": "",
+    "aboutGDGProgram": "https://ctf.hackershour.org/"
+}
