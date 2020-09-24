@@ -1,5 +1,29 @@
 # Hackers Hour 
 [![MadeWithVueJs.com shield](https://madewithvuejs.com/storage/repo-shields/1444-shield.svg)](https://madewithvuejs.com/p/aura/shield-link)
+
+Hackers Hour Capture the Flag (CTF) is a special kind of 12 hours, Beginner Level, Jeopardy style, information security competition Initiative by [Comexpo cyber security Foundation](https://www.facebook.com/officialpagecomexpo), Organized by [The Hacker’s Meet-up](https://www.facebook.com/HackersMeetup) and in Association with [Centre For Cyber and Information Security](https://www.facebook.com/CCISThinkTank/) which touch on many aspects of information security like cryptography, steganography, binary analysis, reverse engineering, web application security and others. Good teams generally have strong skills and experience in all these issues. For example Web Forensic, Crypto Binary or something else. Team can gain some points for every solved task. More points for more complicated tasks usually. The next task in chain can be opened only after same team solve previous task. Then the game time is over sum of points shows you a CTF winner
+
+## How to Participate
+
+Win Prize worth up to Rs.50000/-
+
+**Register Now**
+[https://allevents.in/online/hackers-hour-ctf/80002817291964](https://allevents.in/online/hackers-hour-ctf/80002817291964)
+
+Participants have to register as a team, so assemble your squad.
+Any Individual or maximum 3 member can consist in a team.
+
+We have limited slot for 100 Teams only, so Preference will be given to THM Members first (Rights of Admission Reserved)
+
+Become a Member Today: [https://forms.gle/pFRm7m75weHZT8DS7](https://forms.gle/pFRm7m75weHZT8DS7)
+
+Date: 27th -28th September 2020
+Time: 10.00 AM — 12.00 AM
+Website: [www.HackersHour.org](www.HackersHour.org)
+CTF Online : [www.CTF.HackersHour.org](www.CTF.HackersHour.org)
+Contact us: +91 8980808222 +91 8866827872
+mail us on thehackersmeetup@gmail.com
+
 <!-- [![Build Status](https://travis-ci.org/Vrijraj/aura.svg?branch=master)](https://travis-ci.org/Vrijraj/aura) -->
 
 <!-- <img width="100%" src="https://raw.githubusercontent.com/GDG-Jalandhar/WebsiteData/master/promotion%20images/Aura%20v1.0.3.png">
