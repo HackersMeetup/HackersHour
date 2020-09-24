@@ -1,10 +1,10 @@
-# Aura - GDG[x]
+# Hackers Hour 
 [![MadeWithVueJs.com shield](https://madewithvuejs.com/storage/repo-shields/1444-shield.svg)](https://madewithvuejs.com/p/aura/shield-link)
 <!-- [![Build Status](https://travis-ci.org/Vrijraj/aura.svg?branch=master)](https://travis-ci.org/Vrijraj/aura) -->
 
-<img width="100%" src="https://raw.githubusercontent.com/GDG-Jalandhar/WebsiteData/master/promotion%20images/Aura%20v1.0.3.png">
+<!-- <img width="100%" src="https://raw.githubusercontent.com/GDG-Jalandhar/WebsiteData/master/promotion%20images/Aura%20v1.0.3.png">
 
-Standard Web App for GDG's Communties. <br>
+// Standard Web App for GDG's Communties. <br>
 [Demo](https://aura-client-master.firebaseapp.com/) <br>
 Version: 1.0.5
 
@@ -128,6 +128,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 | GDG Fremont | [View Now](https://gdg-fremont.firebaseapp.com/) |
 | GDG Savannah | [View Now](https://gdgsavannah.com/) |
 
-
+-->
 Project is published under the [MIT license](/LICENSE.md).  
 Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
