@@ -73,10 +73,10 @@
 import HomeStartScreen from "@/components/home/HomeStartScreen";
 import whatWeDo from "@/components/home/whatWeDo";
 import AboutGDGChapter from "@/components/home/AboutGDGChapter";
-import eventshowcase from "@/components/home/eventshowcase";
+// import eventshowcase from "@/components/home/eventshowcase";
 // import wtmInfo from '@/components/home/wtmInfo'
 import partners from "@/components/home/partners";
-import featureEvent from "@/components/home/featureEvent";
+// import featureEvent from "@/components/home/featureEvent";
 import whyAttend from "@/components/home/whyAttend";
 import faq from "@/components/about/faq";
 
