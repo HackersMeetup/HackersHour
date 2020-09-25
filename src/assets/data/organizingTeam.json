@@ -1,75 +1,74 @@
 [
     {
-        "name":"Abishek Raghav",
-        "designation":"CTF Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"AbishekRaghav.jpg",
-        "website":""
+        "name": "Abishek Raghav",
+        "designation": "CTF Development",
+        "twitter": "https://twitter.com/",
+        "linkedin": "https://www.linkedin.com/",
+        "github": "https://github.com/",
+        "profileImage": "AbishekRaghav.jpg",
+        "website": ""
     },
     {
-        "name":"Ankit Tiwari",
-        "designation":"CTF Development",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"",
-        "profileImage":"AnkitTiwari.jpg",
-        "website":""
+        "name": "Ankit Tiwari",
+        "designation": "CTF Development",
+        "twitter": "",
+        "linkedin": "https://www.linkedin.com/",
+        "github": "",
+        "profileImage": "AnkitTiwari.jpg",
+        "website": ""
     },
     {
-        "name":"Ashutosh Kumar",
-        "designation":"CTF Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
-        "profileImage":"AshutoshKumar.jpg",
-        "website":""
+        "name": "Ashutosh Kumar",
+        "designation": "CTF Development",
+        "twitter": "https://twitter.com/",
+        "linkedin": "https://www.linkedin.com/",
+        "github": "https://www.github.com/",
+        "profileImage": "AshutoshKumar.jpg",
+        "website": ""
     },
     {
-        "name":"Brijesh Joshi",
-        "designation":"Creative Team",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"BrijeshJoshi.jpg",
-        "website":"https://github.com"
+        "name": "Brijesh Joshi",
+        "designation": "Creative Team",
+        "twitter": "https://twitter.com/",
+        "linkedin": "https://linkedin.com/",
+        "github": "https://github.com/",
+        "profileImage": "BrijeshJoshi.jpg",
+        "website": ""
     },
     {
-        "name":"Gaurav Agrawal",
-        "designation":"Creative Team",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
-        "profileImage":"GauravAgrawal.jpg",
-        "website":""
+        "name": "Gaurav Agrawal",
+        "designation": "Creative Team",
+        "twitter": "https://twitter.com/",
+        "linkedin": "",
+        "github": "https://github.com/",
+        "profileImage": "GauravAgrawal.jpg",
+        "website": ""
     },
     {
-        "name":"Lipson Thomas Philip",
-        "designation":"Documentation Team",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
-        "profileImage":"LipsonThomasPhilip.jpg",
-        "website":""
+        "name": "Lipson Thomas Philip",
+        "designation": "Documentation Team",
+        "twitter": "https://twitter.com/",
+        "linkedin": "",
+        "github": "https://github.com/",
+        "profileImage": "LipsonThomasPhilip.jpg",
+        "website": ""
     },
     {
-        "name":"Siddarth Negi",
-        "designation":"Documentation Team",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
-        "profileImage":"SiddarthNegi.jpg",
-        "website":""
+        "name": "Siddarth Negi",
+        "designation": "Documentation Team",
+        "twitter": "https://twitter.com/",
+        "linkedin": "",
+        "github": "https://github.com/",
+        "profileImage": "SiddarthNegi.jpg",
+        "website": ""
     },
     {
-        "name":"Moulik Agrawal",
-        "designation":"Development Team",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
+        "name": "Moulik Aggarwal",
+        "designation": "Development Team",
+        "twitter": "https://twitter.com/aggmoulik",
+        "linkedin": "https://www.linkedin.com/in/agg-moulik/",
+        "github": "https://github.com/aggmoulik",
+        "profileImage": "moulik.jpg",
+        "website": "https://www.aggmoulik.me"
     }
-
 ]
