@@ -28,14 +28,14 @@
     {
         "id": "101",
         "name": "Sandeep",
-        "designation": "",
+        "designation": "Security Researcher and CTF player",
         "company": {
-            "name": "ComExpo Cyber Security Foundation",
+            "name": "Warlock",
             "url": ""
         },
         "profileImage": "Sandeep.png",
-        "bio": "",
-        "city": "Ahmedabad",
+        "bio": "Security Researcher and CTF player at Warlock world ranking:39 and India:2 rank, he is been in infosec for 5 years",
+        "city": "",
         "country": "India",
         "image": "",
         "sessionId": [
@@ -52,51 +52,76 @@
     },
     {
         "id": "106",
-        "name": "Shrey Shah",
+        "name": "",
         "designation": "",
         "company": {
-            "name": "ComExpo Cyber Security Foundation",
+            "name": "",
             "url": ""
         },
-        "profileImage": "Viral.png",
+        "profileImage": "",
         "bio": "",
-        "city": "Ahmedabad",
+        "city": "",
         "country": "India",
-        "image": "/viral.jpg",
+        "image": "",
         "sessionId": [
             206
         ],
         "social": {
-            "facebook": "https://www.facebook.com/viralparmarhacker/",
-            "twitter": "https://twitter.com/viralparmarhack/ ",
-            "linkedin": "https://www.linkedin.com/in/viral-parmar-8402a04a/",
-            "github": "https://github.com/viralparmarhacker/",
-            "website": "https://viralparmarhacker.com/",
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/ ",
+            "linkedin": "https://www.linkedin.com/in/",
+            "github": "https://github.com/",
+            "website": "https://",
             "medium": ""
         }
     },
     {
         "id": "119",
-        "name": "",
-        "designation": "",
+        "name": "Abishekraghav Murugeashan",
+        "designation": "Chapter Head",
         "company": {
-            "name": "ComExpo Cyber Security Foundation",
+            "name": "OWASP Namakkal",
             "url": ""
         },
-        "profileImage": "",
-        "bio": "",
-        "city": "Ahmedabad",
+        "profileImage": "AbishekRaghav.jpg",
+        "bio": "Reverse Engineer, and full-stack developer",
+        "city": "Coimbatore",
         "country": "India",
-        "image": "/viral.jpg",
+        "image": "",
         "sessionId": [
             217
         ],
         "social": {
-            "facebook": "https://www.facebook.com/viralparmarhacker/",
-            "twitter": "https://twitter.com/viralparmarhack/ ",
-            "linkedin": "https://www.linkedin.com/in/viral-parmar-8402a04a/",
-            "github": "https://github.com/viralparmarhacker/",
-            "website": "https://viralparmarhacker.com/",
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/arhaxor21",
+            "linkedin": "https://www.linkedin.com/in/arhaxor21/",
+            "github": "https://github.com/",
+            "website": "",
+            "medium": ""
+        }
+    },
+    {
+        "id": "112",
+        "name": "Punit Darji",
+        "designation": "Founder",
+        "company": {
+            "name": "Rapid Safeguard",
+            "url": ""
+        },
+        "profileImage": "PunitDarji.png",
+        "bio": "Reverse Engineer, and full-stack developer",
+        "city": "Ahmedabad",
+        "country": "India",
+        "image": "",
+        "sessionId": [
+            210
+        ],
+        "social": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/ ",
+            "linkedin": "https://www.linkedin.com/in/",
+            "github": "https://github.com/",
+            "website": "",
             "medium": ""
         }
     }

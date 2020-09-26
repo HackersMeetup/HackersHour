@@ -1,6 +1,6 @@
 [
     {
-        "name":"Abishek Raghav",
+        "name":"Abishekraghav Murugeashan",
         "designation":"CTF Development",
         "twitter":"https://twitter.com/",
         "linkedin":"https://www.linkedin.com/",
@@ -65,6 +65,33 @@
     {
         "name":"Moulik Agrawal",
         "designation":"Development Team",
+        "twitter":"https://twitter.com/",
+        "linkedin":"",
+        "github":"https://github.com/",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Pritam Nipanikar",
+        "designation":"Creative Team",
+        "twitter":"https://twitter.com/",
+        "linkedin":"",
+        "github":"https://github.com/",
+        "profileImage":"PritamNipanikar.png",
+        "website":""
+    },
+    {
+        "name":"Aditya Verma",
+        "designation":" Creative Team",
+        "twitter":"https://twitter.com/",
+        "linkedin":"",
+        "github":"https://github.com/",
+        "profileImage":"AdityaVerma.png",
+        "website":""
+    },
+    {
+        "name":"Shubhendu Sarma",
+        "designation":"CTF Development Team",
         "twitter":"https://twitter.com/",
         "linkedin":"",
         "github":"https://github.com/",
